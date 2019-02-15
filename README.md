@@ -139,7 +139,7 @@ Newton's method specifies a sequence of approximations <img alt="x_0, x_1, \dots
 
 <img alt="x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}" src="http://latex.codecogs.com/gif.latex?x_%7Bn&amp;plus;1%7D%20%3D%20x_n%20-%20%5Cfrac%7Bf%28x_n%29%7D%7Bf%27%28x_n%29%7D">
 
-The square root of a real number <img alt="c" src="http://latex.codecogs.com/gif.latex?c"> for <img alt="c &gt; 0" src="http://latex.codecogs.com/gif.latex?c%20%3E%200">, written <img alt="\sqrt[2]{c}" src="http://latex.codecogs.com/gif.latex?%5Csqrt%5B2%5D%7Bc%7D">, is a positive <img alt="x" src="http://latex.codecogs.com/gif.latex?x"> such that <img alt="x^2 = c" src="http://latex.codecogs.com/gif.latex?x%5E2%20%3D%20c">.
+The square root of a real number <img alt="c" src="http://latex.codecogs.com/gif.latex?c"> for <img alt="c &gt; 0" src="http://latex.codecogs.com/gif.latex?c%20%3E%200">, written <img alt="\sqrt{c}" src="http://latex.codecogs.com/gif.latex?%5Csqrt%7Bc%7D">, is a positive <img alt="x" src="http://latex.codecogs.com/gif.latex?x"> such that <img alt="x^2 = c" src="http://latex.codecogs.com/gif.latex?x%5E2%20%3D%20c">.
 Thus, to compute the square root of a number <img alt="c" src="http://latex.codecogs.com/gif.latex?c">, we want to find the
 positive root of the function: 
 
