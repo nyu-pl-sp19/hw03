@@ -159,7 +159,7 @@ that computes
 the approximations <img alt="x_n" src="http://latex.codecogs.com/gif.latex?x_n"> of the square root of <img alt="c" src="http://latex.codecogs.com/gif.latex?c"> until the approximation error is below <img alt="\epsilon" src="http://latex.codecogs.com/gif.latex?%5Cepsilon"> (epsilon), that is
      
    <img alt="|x_n^2 - c| < \epsilon"
-   src="http://latex.codecogs.com/gif.latex?%7Cx_n%5E3%20-%20c%7C%20%3C%20%5Cepsilon">
+   src="http://latex.codecogs.com/gif.latex?%7Cx_n%5E2%20-%20c%7C%20%3C%20%5Cepsilon">
    
 holds. You can use the function `math.abs` from the Scala standard library to
 compute the absolute value of a `Double` value. Use a while loop to
