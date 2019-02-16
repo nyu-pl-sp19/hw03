@@ -1,7 +1,7 @@
 # Homework 3 (20 Points)
 
-The deadline for Homework 3 is Saturday, September 29, 6pm. The late
-submission deadline is Thursday, October 4, 6pm.
+The deadline for Homework 3 is Friday, Febrary 22, 6pm. The late
+submission deadline is Thursday, February 28, 6pm.
 
 ## Getting the code template
 
