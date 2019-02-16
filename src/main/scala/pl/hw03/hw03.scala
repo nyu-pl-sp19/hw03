@@ -20,7 +20,7 @@ object hw03 extends App {
     require (c >= 0) // makes sure that we don't call squareRoot with negative values
     require (epsilon >= 0) // the error bound should also be positive
 
-    var xn = 1
+    var xn = 1.0
     
     // Replace the ??? with your implementation of Newton's Method
     
